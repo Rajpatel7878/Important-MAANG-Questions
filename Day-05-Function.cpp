@@ -1,3 +1,5 @@
+//Write a function that calculates the total salary using a default bonus of ₹5,000.
+
 #include <iostream>
 using namespace std;
 
