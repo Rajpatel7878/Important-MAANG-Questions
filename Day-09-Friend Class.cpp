@@ -1,3 +1,5 @@
+//Demonstrate a class 
+
 #include <iostream>
 using namespace std;
 
