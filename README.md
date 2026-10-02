@@ -3,7 +3,6 @@
 A structured collection of **C++ coding problems, Data Structures & Algorithms, OOP concepts, and interview questions** designed for **MAANG-level technical interview preparation**.
 
 The goal of this repository is to build strong problem-solving skills through consistent practice — from **C++ fundamentals** to advanced **DSA and interview patterns**.
-
 ---
 
 ## 🎯 Goals
@@ -274,5 +273,3 @@ Every problem added here represents another step toward becoming a stronger **C+
 
 B.Tech CSE Student | C++ | DSA | OOP | Competitive Programming | Interview Preparation
 
-
-⭐ If this repository helps you, consider giving it a star!
